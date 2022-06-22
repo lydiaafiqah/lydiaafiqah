@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/lydiaazaki"><img src="https://api.daily.dev/devcards/b7c7645c839f42ef877150faa21e9470.png?r=ot1" width="400" alt="Lydia Zaki's Dev Card"/></a>
+
 <!--
 **lydiaafiqah/lydiaafiqah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
