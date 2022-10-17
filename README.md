@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <a href="https://app.daily.dev/lydiazaki"><img src="https://api.daily.dev/devcards/ffd21046cccf40c197c373a10810b87b.png?r=ubb" width="400" alt="Lydia Zaki's Dev Card"/></a>
 
